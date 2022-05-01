@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vanimittal12" target="blank"><img src="https://img.shields.io/twitter/follow/vanimittal12?logo=twitter&style=for-the-badge" alt="vanimittal12" /></a> </p>
 
-- 🔭 I’m currently working on ** boosting my backend skills and apparently working on an e-commerce website**
+- 🔭 I’m currently working on my backend skills and apparently working on an e-commerce website
 
 - 🌱 I’m currently learning **Node.js**
 
