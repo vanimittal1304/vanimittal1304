@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Vani Mittal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanimittal1304&label=Profile%20views&color=0e75b6&style=flat" alt="vanimittal1304" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vanimittal12" target="blank"><img src="https://img.shields.io/twitter/follow/vanimittal12?logo=twitter&style=for-the-badge" alt="vanimittal12" /></a> </p>
@@ -14,7 +16,9 @@
 - 📫 How to reach me **vani9045060450@gmail.com**
 
 - ⚡ Fun fact **I still binge cartoons, mostly shinchan!!**
-
+<div id="header" >
+  <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vanimittal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanimittal12" height="30" width="40" /></a>
