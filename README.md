@@ -1,7 +1,8 @@
-
+[![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg
+)](https://github.com/vanimittal1304
+)
 <h1 align="center">Hi 👋, I'm Vani Mittal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanimittal1304&label=Profile%20views&color=0e75b6&style=flat" alt="vanimittal1304" /> </p>
 
