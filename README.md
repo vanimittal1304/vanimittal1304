@@ -1,6 +1,5 @@
-[![MasterHead](https://cdn.ucberkeleybootcamp.com/wp-content/uploads/sites/106/2020/07/CDG_blog_post_image_08.jpg
-)](https://github.com/vanimittal1304
-)
+![02](https://user-images.githubusercontent.com/98648970/166180404-66f8aa20-eb8d-4234-872f-5cca67b0ccf7.jpg)
+
 <h1 align="center">Hi 👋, I'm Vani Mittal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
